@@ -540,7 +540,7 @@ button {
 .image_5 img {
     width: 100%;                 /* Make image width 100% of the container */
     height: 100%;                /* Make image height 100% of the container */
-    object-fit: cover;           /* Ensures the image fills the container (cropping as needed) */
+    object-fit: fill;           /* Ensures the image fills the container (cropping as needed) */
     object-position: center;     /* Optionally center the image if cropping occurs */
     border-radius: 20px;
     border-bottom-right-radius: 30px; /* Curves the bottom right corner */

@@ -278,6 +278,8 @@ button {
 
 .image_1{
     width: 100%;
+    Min-height:362px;
+    max-heght:362px;
     float: left;
 }
 
